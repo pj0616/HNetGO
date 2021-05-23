@@ -3,16 +3,13 @@
 *.xlxs
 *.xls
 *.csv
-*.pkl
 *.gz
 *.obo
-*.fa
 *.fasta
 *.json
 *.hdf5
 data/
 comparative_experiment/
-0-data/
 4-comparative_experiment/
 
 # Byte-compiled / optimized / DLL files
